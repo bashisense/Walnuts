@@ -1,0 +1,12 @@
+{
+    "action":"set",
+    "params":[
+        {
+            "uuid":"cctv"
+        },
+        
+        {
+            "name":"me"
+        }
+    ]
+}

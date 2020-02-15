@@ -1,0 +1,8 @@
+{
+    "action":"get",
+    "params":[
+            "uuid",
+        
+            "name"
+    ]
+}

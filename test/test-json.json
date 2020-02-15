@@ -1,0 +1,16 @@
+{
+    "action":"add",
+    "params":[
+        {
+            "name":"myname",
+            "uuid":"cctv",
+            "number": 15867539987
+        },
+        
+        {
+            "name":"me",
+            "uuid":"ccav",
+            "number": 15867539987
+        }
+    ]
+}
